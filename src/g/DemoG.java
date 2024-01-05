@@ -6,8 +6,7 @@ public class DemoG {
 		System.out.println("Gustavo");
 
 		//Pull Attempt 2
-		System.out.println("is learning GitHub");
-
+		System.out.println("GitHub is fun");
 	}
 
 }
