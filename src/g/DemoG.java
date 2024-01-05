@@ -7,6 +7,10 @@ public class DemoG {
 
 		//Pull Attempt 2
 		System.out.println("GitHub is fun");
+		
+		//Push Attempt 2
+		int day = 2;
+		System.out.println("GitHub Practice Day: " + day);
 	}
 
 }
